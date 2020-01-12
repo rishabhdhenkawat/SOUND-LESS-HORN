@@ -103,8 +103,8 @@ which are broadcasted at a regular interval. Two Cluster
 head can inter-communicate with each other with the help of
 a special node known as the Gateway node. 
 
-[2]
-Clustering Mechanism
+![cv](https://user-images.githubusercontent.com/44580998/72222444-bb28e580-358a-11ea-9c1b-7e9129e0fa5d.PNG)
+
 
 Communication with the help of Cluster based routing
 protocol, a lot of efficiency is achieved as compared to
@@ -142,6 +142,9 @@ from one vehicle to another. Each vehicle would contain OBU
 (On-Board Unit) i.e. a pair of transmitting and receiving
 device that would help transmitting and receiving the
 transmitted signal to and fro.
+
+![cfdsef](https://user-images.githubusercontent.com/44580998/72222459-fcb99080-358a-11ea-9c0e-b10cb606dfae.PNG)
+
 Vehicles would transmit signals using the onboard circuits
 with the help of wireless Ad-hoc networks. These signals
 would be carried away along the road and received by the
@@ -149,6 +152,10 @@ vehicle with the nearest range. Vehicles which would receive
 the signals which would notify the fellow driver with the
 help of a device which would be setup on the driver’s
 steering wheel.
+
+![fgdgd](https://user-images.githubusercontent.com/44580998/72222485-21ae0380-358b-11ea-9a0b-573312476c6a.PNG)
+
+
 The device which would be setup at driver’s steering wheel
 would comprise of a pair of vibrator that would vibrate
 when the receiver receives the signals placed at equidistance
@@ -170,6 +177,10 @@ max no of indicators present on board would only be 3:3
 each. In case of the sound produced by horn the vibrator and
 the ambient light together does the work of alert made by
 the sound for notifying drivers.
+
+![dhhhjtf](https://user-images.githubusercontent.com/44580998/72222511-46a27680-358b-11ea-8a1f-d396371cca00.PNG)
+
+
 An ambient light on center top of steering wheel indicates
 that another driver is honking from the front side, in
 opposite direction, and a low intensity sound will alert the
