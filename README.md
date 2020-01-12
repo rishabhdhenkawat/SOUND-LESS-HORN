@@ -87,9 +87,8 @@ helps to increase the safety of the vehicles and it increases
 the packet delivery ratio. Cluster based routing protocol
 basically divides the vehicle into an overlapping (or nonoverlapping in some of the cases) clusters that communicate
 with each other and increases the scalability of the network.
-[1]
 
-Chart -1: Name of the chart
+![Capture](https://user-images.githubusercontent.com/44580998/72222427-96347280-358a-11ea-8af5-02f7a717889d.PNG)
 
 In cluster based routing protocol a group of overlapping
 clusters forms a disjoint wireless network. Every cluster has
